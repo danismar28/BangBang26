@@ -1,0 +1,27 @@
+{
+    "name": "BANG BANG",
+    "short_name": "BANG BANG",
+    "start_url": "Index.html",
+    "display": "standalone",
+    "background_color": "#000",
+    "lang": "es",
+    "scope": "/",
+    "description": "",
+    "orientation": "landascape-primary",
+    "theme_color": "#000",
+
+
+    "icons":[
+        {
+            "src": "img/pwa-192x192.png",
+            "sizes": "192x192",
+            "type": "img/png"
+        },
+        {
+            "src":"img/pwa-512x512.png",
+            "sizes": "152x152",
+            "type": "img/png"
+
+        }
+    ]
+}
